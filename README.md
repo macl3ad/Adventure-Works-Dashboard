@@ -40,12 +40,14 @@ This Power BI file is configured to load data directly from this GitHub reposito
 As long as you have an active internet connection, the data will refresh successfully. There is no need to edit local paths or parameters
 
 ## Key Insights
-- Shorts are a consistent return problem. Over the last three years, "Shorts" are the #1 most returned product overall in both North America and Europe. Even though they only spiked as a yearly leader once (Europe 2017), this finding shows they are being consistently returned across both regions, which eats into profits
-- When a customer buys a specific "Tire", they also buy the matching "Tire Tube" in the same order (around 60-80% of the time). The company should create "Tire + Tube" bundles to make buying easier and potentially increase sales
+- Shorts are a consistent return problem. Over the last three years, "Shorts" are the #1 most returned product overall in both North America and Europe. Even though they only spiked as a yearly leader once (Europe 2017), this finding shows they are being consistently returned across both regions, which eats into profits.
+
+- When a customer buys a specific "Tire", they also buy the matching "Tire Tube" in the same order (around 60-80% of the time). The company should create "Tire + Tube" bundles to make buying easier and potentially increase sales.
+
 - The business model is not about "Champions". The RFM analysis shows that this business does not rely on "Classic Champions". Revenue is driven by other groups. The company's strategy should be to:
 
-Re-engage the large "Hibernating" segment before they become "Lost"
+  - Re-engage the large "Hibernating" segment before they become "Lost."
 
-Retain the "Big Spenders"
+  - Retain the "Big Spenders."
 
-Improve the retention of "New Customers" to get them to make a second purchase
+  - Improve the retention of "New Customers" to get them to make a second purchase.
